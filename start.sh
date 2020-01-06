@@ -16,13 +16,13 @@ while getopts "hlm" OPTION; do
 								m) 
                         echo "Running through Mac"
 												chmod u+x ./phantom-*
-												./phantom-macos -server 4b4t.online
+												./phantom-macos -server 4b4t.online:19132
                         ;;
 
                 l)
                         echo "Running through Linux"
 												chmod u+x ./phantom-*
-												./phantom-linux -server 4b4t.online
+												./phantom-linux -server 4b4t.online:19132
                         ;;
 
                 h)
