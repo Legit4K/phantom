@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 if [ $# -eq 0 ]
 then
@@ -16,7 +16,7 @@ while getopts "hlm" OPTION; do
 								m) 
                         echo "Running through Mac"
 												chmod u+x ./phantom-*
-												./phantom-mac -server 4b4t.online
+												./phantom-macos -server 4b4t.online
                         ;;
 
                 l)
@@ -31,8 +31,8 @@ while getopts "hlm" OPTION; do
                         echo "start.sh -l "
 												echo "start.sh -m "
                         echo ""
-												echo "   -m         to initiate proxy on mac"
-                        echo "   -l            to initiate proxy on linux"
+												echo "   -m           to initiate proxy on mac"
+                        echo "   -l           to initiate proxy on linux"
                         echo "   -h           help menu (this output)"
                         exit 0
                         ;;
