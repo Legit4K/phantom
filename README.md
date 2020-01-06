@@ -2,9 +2,7 @@
 
 # phantom custom
 
-Makes hosted Bedrock/MCPE servers show up as LAN servers, specifically for consoles.
-
-You can use this to play 4B4T+ on XBOX & PS4!
+To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this tool on a seperate "host device". **This tool supports Mac/Linux/Windows!**
 
 ## Installing
 
