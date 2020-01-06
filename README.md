@@ -37,6 +37,7 @@ Usage: open phantom-windows.exe
 
 Options:
 	-server 4b4t.online:19132
+```
 
 ## Supported platforms
 
