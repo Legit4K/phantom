@@ -2,7 +2,7 @@
 
 # phantom custom
 
-To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this tool on a seperate "host device". **This tool supports Mac/Linux/Windows!**
+To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this tool on a seperate "host device". **This tool supports Mac/Linux/Windows!** (Android Support Coming Soon)
 
 ## Installing
 
