@@ -1,4 +1,4 @@
-[![Downloads](https://img.shields.io/github/downloads/Legit4K/phantom/total)](https://github.com/Legit4K/phantom/releases) [![Discord](https://img.shields.io/discord/613163671870242838.svg?color=%237289da&label=discord)](https://discord.gg/6DNn59x)
+[![Downloads](https://img.shields.io/github/downloads/Legit4K/phantom/total)](https://github.com/Legit4K/phantom/releases) [![Discord](https://badges.discord.gg/phantom-custom/community.svg)](https://discord.gg/6DNn59x?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
 # phantom custom
 
@@ -29,6 +29,7 @@ Usage: ./start.sh [Options]
 
 Options:
   -l  -> use this option on Linux Host
+  -a -> use this option on Android Host
   -m -> use this option for Mac Host
 ```
 **WINDOWS**
