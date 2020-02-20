@@ -1,12 +1,14 @@
-[![Downloads](https://img.shields.io/github/downloads/Legit4K/phantom/total)](https://github.com/Legit4K/phantom/releases) [![Gitter](https://badges.gitter.im/phantom-minecraft/community.svg)](https://gitter.im/phantom-minecraft/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Downloads](https://img.shields.io/github/downloads/Legit4K/phantom/total)](https://github.com/Legit4K/phantom/releases) [![Discord](https://badges.discord.gg/phantom-custom/community.svg)](https://discord.gg/6DNn59x?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # phantom custom
 
-To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this tool on a seperate "host device". **This tool supports Mac/Linux/Windows!** (Android Support Coming Soon)
+To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this tool on a seperate "host device". **This proxy can be hosted Android/Mac/Linux/Windows!** (easy method is to host it on Android with the Termius app)
 
 ## Installing
 
-**macOS / Linux**
+**Prerequisites:** ```git```
+
+**macOS / Linux / Android**
 
 Add execute permissions if necessary:
 
@@ -20,7 +22,7 @@ Open up a command prompt (Windows) or terminal (macOS & Linux) to the location
 where you downloaded it, then the server should show up on your LAN list within
 a few seconds. If not, you did something wrong. Or I did ;)
 
-**Linux / Mac**
+**Linux / Mac / Android**
 
 ```
 Usage: ./start.sh [Options]
@@ -39,7 +41,7 @@ Options:
 
 ## Supported platforms
 
-- This tool should work on Windows, macOS, and Linux.
+- This tool should work on Windows, macOS, Linux, and Android.
 - ARM builds are available for Raspberry Pi and similar SOCs.
 - Minecraft for Windows 10, iOS/Android, Xbox One, and PS4 are currently supported.
 - **Nintendo Switch is not supported.**
