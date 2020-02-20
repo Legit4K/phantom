@@ -39,8 +39,8 @@ while getopts "halm" OPTION; do
 												echo "start.sh -m "
                         echo ""
 												echo "   -m           to initiate proxy on mac"
-                        echo "   -l            to initiate proxy on linux"
-												echo "   -a          to initiate proxy on android"
+                        echo "   -l           to initiate proxy on linux"
+												echo "   -a           to initiate proxy on android"
                         echo "   -h           help menu (this output)"
                         exit 0
                         ;;
