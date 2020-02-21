@@ -28,7 +28,7 @@ a few seconds. If not, you did something wrong. Or I did ;)
 Usage: ./start.sh [Options]
 
 Options:
-  -l  -> use this option on Linux Host
+  -l -> use this option on Linux Host
   -a -> use this option on Android Host
   -m -> use this option for Mac Host
 ```
