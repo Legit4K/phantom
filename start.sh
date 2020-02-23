@@ -13,7 +13,7 @@ ECHO="false"
 while getopts "halm" OPTION; do
         case $OPTION in
 
-		m) 								m) 
+ 								m) 
                         echo "Running through Mac"
 												chmod u+x ./phantom-*
 												./phantom-macos -server 4b4t.online:19132
