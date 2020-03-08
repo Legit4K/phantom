@@ -8,7 +8,18 @@ To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this
 
 **Prerequisites:** ```git```
 
-**macOS / Linux / Android**
+**macOS / Linux **
+
+```apt install git```
+
+or if you're using Termux (Android):
+```pkg install git```
+
+Download this proxy:
+```bash
+$ git clone https://github.com/Legit4K/phantom/
+$ cd phantom
+```
 
 Add execute permissions if necessary:
 
