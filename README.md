@@ -6,13 +6,14 @@ To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this
 
 ## Installing
 
-**Prerequisites:** ```git```
+**Prerequisites:** git
 
 **macOS / Linux **
 
 ```apt install git```
 
 or if you're using Termux (Android):
+
 ```pkg install git```
 
 Download this proxy:
