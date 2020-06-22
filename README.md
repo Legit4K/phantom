@@ -8,7 +8,7 @@ To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this
 
 **Prerequisites:** git
 
-**macOS / Linux **
+macOS / Linux
 
 ```apt install git```
 
