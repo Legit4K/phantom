@@ -1,5 +1,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Legit4K/phantom/total)](https://github.com/Legit4K/phantom/releases) [![Discord](https://img.shields.io/discord/613163671870242838.svg?color=%237289da&label=discord)](https://discord.gg/6DNn59x)
 
+> ⚠️ **This Proxy is no longer being maintained, feel free to check out BedrockTogether on the App Store though!**
+
 # phantom custom
 
 To play 4B4T+ on a Game Console such as PS4 or XBOX, you will need to setup this tool on a seperate "host device". **This proxy can be hosted on Android/Mac/Linux/Windows!** (easy method is to host it on Android with the Termius app)
